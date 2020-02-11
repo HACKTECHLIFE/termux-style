@@ -1,4 +1,10 @@
 # termux-style
+<p>
+  <img src="https://img.shields.io/github/stars/adi1090x/termux-style?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/forks/adi1090x/termux-style?style=flat-square">
+  <img src="https://img.shields.io/github/issues/adi1090x/termux-style?style=flat-square">
+</p>
+
 Simple Program for customizing the termux font and color theme...
 
 **"termux-style" provides color schemes and powerline-ready fonts to customize the appearance of the Termux terminal**
