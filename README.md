@@ -17,7 +17,7 @@ This Setup Contains-
 
 ```bash
 # First, clone this repository by typing...
-git clone https://github.com/adi1090x/termux-style.git
+git clone https://github.com/HACKTECHLIFE/termux-style.git
 
 # Change to cloned directory
 cd termux-style
